@@ -1,0 +1,28 @@
+#maincell {
+  background-color:  rgb(46, 42,47);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  display: inline-block;
+  margin-top: 30px;
+
+  padding: 20px;
+}
+#heading{
+  font-size: 20px;
+  font-weight:bold;
+
+}
+#middle{
+  font-size: 16px;
+  font-weight: bold;
+}
+#end{
+font-size: 30px;
+font-weight: bolder;
+}
+#maincell:hover{
+  background-color:  rgb(80, 77, 82);
+  border-radius: 15px;
+  /* width: 250px; */
+}

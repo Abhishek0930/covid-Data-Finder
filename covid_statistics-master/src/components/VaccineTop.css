@@ -1,0 +1,19 @@
+.vaccinetop{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 150px;
+    padding-bottom: 70px;
+    margin-left: 10%;
+    margin-right: 5%;
+    
+}
+
+.VaccineTopLeft{
+    padding-top: 100px;
+
+}
+
+/* #gap{
+    margin-left: 5%;
+    margin-right: 5%;
+} */
